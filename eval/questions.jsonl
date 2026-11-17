@@ -1,0 +1,25 @@
+{"question": "Does Nimbus Notes work on Linux?", "expected_doc": "doc-getting-started", "must_include": ["web app"]}
+{"question": "How many tags can a note have?", "expected_doc": "doc-getting-started", "must_include": ["20"]}
+{"question": "What happens if I don't verify my email?", "expected_doc": "doc-getting-started", "must_include": ["paused"]}
+{"question": "What is the shortcut to search notes?", "expected_doc": "doc-getting-started", "must_include": ["ctrl+k"]}
+{"question": "How much does the Pro plan cost?", "expected_doc": "doc-pricing", "must_include": ["$6"]}
+{"question": "Is there a student discount?", "expected_doc": "doc-pricing", "must_include": ["50%"]}
+{"question": "What is the minimum number of users for the Team plan?", "expected_doc": "doc-pricing", "must_include": ["3 users"]}
+{"question": "Can I get a refund on a yearly plan?", "expected_doc": "doc-pricing", "must_include": ["14 days"]}
+{"question": "How much storage do I get on the free plan?", "expected_doc": "doc-pricing", "must_include": ["100 mb"]}
+{"question": "Can I use the mobile app offline?", "expected_doc": "doc-sync-offline", "must_include": ["pro"]}
+{"question": "What happens when I edit the same note on two devices?", "expected_doc": "doc-sync-offline", "must_include": ["conflict"]}
+{"question": "How long are deleted notes kept in the trash?", "expected_doc": "doc-sync-offline", "must_include": ["30 days"]}
+{"question": "How do I restore an older version of a note?", "expected_doc": "doc-sync-offline", "must_include": ["clock icon"]}
+{"question": "Are my notes encrypted?", "expected_doc": "doc-security-privacy", "must_include": ["aes-256"]}
+{"question": "I forgot my end-to-end encryption password, can support recover it?", "expected_doc": "doc-security-privacy", "must_include": ["cannot be recovered"]}
+{"question": "Does two-factor authentication support SMS?", "expected_doc": "doc-security-privacy", "must_include": ["sms codes are not supported"]}
+{"question": "Where is my data stored if I live in Europe?", "expected_doc": "doc-security-privacy", "must_include": ["frankfurt"]}
+{"question": "Do you train AI models on my notes?", "expected_doc": "doc-security-privacy", "must_include": ["does not use your notes"]}
+{"question": "My notes are not syncing, what should I do?", "expected_doc": "doc-troubleshooting", "must_include": ["sync now"]}
+{"question": "How long is a password reset link valid?", "expected_doc": "doc-troubleshooting", "must_include": ["1 hour"]}
+{"question": "Why did my attachment upload fail?", "expected_doc": "doc-troubleshooting", "must_include": ["5 mb"]}
+{"question": "Can I import my notes from Evernote?", "expected_doc": "doc-integrations", "must_include": ["enex"]}
+{"question": "What is the API rate limit?", "expected_doc": "doc-integrations", "must_include": ["60 requests"]}
+{"question": "Which browsers does the web clipper support?", "expected_doc": "doc-integrations", "must_include": ["chrome"]}
+{"question": "Who won the 1998 World Cup?", "expected_doc": null, "must_include": ["couldn't find"]}
